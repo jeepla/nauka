@@ -11,8 +11,8 @@ public class Main {
         System.out.println(myUnicodeChar2);
         System.out.println(myChar);
         System.out.println(myUnicodeChar);
-        boolean kutas = true;
-        boolean cipa = false;
+        boolean pop = true;
+        boolean neg = false;
 
 
         boolean isCustomerOverTwentyOne = true;

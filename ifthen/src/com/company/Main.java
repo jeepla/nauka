@@ -46,7 +46,7 @@ public class Main {
         boolean buljon = (czworka == 0) ? true : false;
         System.out.println("schody ruchome " + buljon);
         if (!buljon) {
-            System.out.println("ruchom ci mome");
+            System.out.println("????");
         }
     }
 

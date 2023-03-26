@@ -38,9 +38,9 @@ public class Main {
 
 
                 byte bajt1 = 10;
-                short kruciak1 =20;
-                int chujnia1 =  50;
-                long wszystko = 50000L + (10*(bajt1+kruciak1+chujnia1));
+                short short1 =20;
+                int integer1    =  50;
+                long wszystko = 50000L + (10*(bajt1+short1+integer1));
 
         System.out.println(wszystko);
     }
